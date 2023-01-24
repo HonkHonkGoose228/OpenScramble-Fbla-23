@@ -1,4 +1,3 @@
-# FBLA-22
-FBLA 2022 Project. 
-Funny thing,
-This has to be a "word game".
+# FBLA-23
+It is a word game like wordle... not finished at all right now :(
+Getting close though.
