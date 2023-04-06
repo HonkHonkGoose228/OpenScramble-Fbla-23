@@ -1,3 +1,8 @@
 # FBLA-23
-It is a word game like wordle... not finished at all right now :(
-Getting close though.
+
+OpenScramble was made by Hunter Nixon and Jenny Yuan from November 25th, 2022, to April 19th, 2023.
+
+Music Source:
+
+https://www.youtube.com/@bugumi7758
+
