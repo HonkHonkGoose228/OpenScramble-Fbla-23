@@ -13,4 +13,4 @@ If you would like OpenScramble brought to your OS, please file an issue stating 
 * NEW ANNOUNCEMENT!! *
 
 OpenScramble will recieve steady updates and support after July 4th, 2023. 
-We hope you will enjoy the updates and new content it brings. I plan to work on it for about a year.
+We hope you will enjoy the updates and new content it brings. 
