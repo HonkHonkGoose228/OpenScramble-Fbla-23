@@ -1,6 +1,6 @@
 # FBLA-23
 
-OpenScramble was made by Hunter Nixon and Jenny Yuan from November 25th, 2022, to April 19th, 2023.
+OpenScramble was made by Hunter Nixon and Jenny Yuan from November 25th, 2022, to April 2023. Future plans for openscramble below.
 
 Music Source:
 
@@ -13,4 +13,4 @@ If you would like OpenScramble brought to your OS, please file an issue stating 
 * NEW ANNOUNCEMENT!! *
 
 OpenScramble will recieve steady updates and support after July 4th, 2023. 
-We hope you will enjoy the updates and new content it brings.
+We hope you will enjoy the updates and new content it brings. I plan to work on it for about a year.
