@@ -6,23 +6,11 @@ Music Source:
 
 https://www.youtube.com/@bugumi7758
 
-Video for Competition:
-
-(I'll add it closer to comp)
-
 OpenScramble Windows, Mac, BSD?
 
 If you would like OpenScramble brought to your OS, please file an issue stating which Operating System we should port it to.
 
-Future Ideas:
+* NEW ANNOUNCEMENT!! *
 
-    Levels of difficulties ​
-
-    Hints​
-
-    Split screen multiplayer ​
-
-    Error-free ​
-
-    Leaderboard
-
+OpenScramble will recieve steady updates and support after July 4th, 2023. 
+We hope you will enjoy the updates and new content it brings.
